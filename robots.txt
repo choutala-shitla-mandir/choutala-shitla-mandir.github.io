@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choutala-shitla-mandir.github.io/sitemap.xml
