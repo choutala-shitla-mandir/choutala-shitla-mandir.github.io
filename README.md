@@ -10,10 +10,5 @@ This is a simple, devotional website dedicated to **Shitla Mandir**, showcasing 
 - **Responsive Design:** Works on both desktop and mobile devices.  
 - **Decorative & Aesthetic:** Flower-style emojis and neat formatting for better readability.
 
-## Technologies Used
-
-- HTML5  
-- CSS3  
-- JavaScript (optional for animations)  
 
 
